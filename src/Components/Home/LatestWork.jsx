@@ -20,8 +20,8 @@ function LatestWork() {
     },
     {
       projectImg: 'https://i.ytimg.com/vi/yl0s76H0oMc/maxresdefault.jpg',
-      projectCode: 'https://github.com/tiwarisaurbh/portfolio',
-      projectView: 'https://github.com/tiwarisaurbh/portfolio',
+      projectCode: 'https://github.com/tiwarisaurbh/PortFolio',
+      projectView: 'https://github.com/tiwarisaurbh/PortFolio',
       projectTitle: 'Portfolio',
       projectDescription: 'A fully responsive portfolio built with React.js and Tailwind CSS. Showcases my latest projects and includes a section highlighting my skills.'
     },
